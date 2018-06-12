@@ -1,0 +1,9 @@
+// Date: 11-June-2018 - initial commit.
+This project is created to better understand the concepts such as
+1) ActivityLifeCycle
+2) FragmentLifeCycle
+3) ActivityLaunchModes
+4)
+
+A main activity has buttons to open different activities related to each concept.
+1. ActivityLifeCycleActivity - displays the activity lifecycle concepts
